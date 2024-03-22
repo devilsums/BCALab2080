@@ -6,3 +6,9 @@ Branch:
 Creation:	git checkout -b BCA_Lab_Test
 Listing:	git branch
 
+git add .
+git config --global user.email "sumitshrestha027@gmail.com
+git config --global user.name "devilsums"
+
+git commit -m "BCA_Lab_Test file added"
+git push origin BCA_Lab_Test
