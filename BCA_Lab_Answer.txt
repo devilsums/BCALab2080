@@ -1,0 +1,8 @@
+Forked.
+for logs:	git log
+		there are 4 commits.
+
+Branch:
+Creation:	git checkout -b BCA_Lab_Test
+Listing:	git branch
+
